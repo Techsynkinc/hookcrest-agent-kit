@@ -1,0 +1,15 @@
+{
+  "name": "hookcrest-agent-kit",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Hookcrest for agents: MCP server, CLI and Claude Code plugin over the Hookcrest API.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "bin": {
+    "hookcrest": "bin/hookcrest.js",
+    "hookcrest-mcp": "bin/hookcrest-mcp.js"
+  },
+  "license": "UNLICENSED"
+}

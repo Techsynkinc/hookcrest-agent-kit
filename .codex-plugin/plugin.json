@@ -1,0 +1,7 @@
+{
+  "name": "hookcrest",
+  "version": "0.3.0",
+  "description": "Hookcrest hosted tools and sign-in bridge.",
+  "skills": "./skills/",
+  "mcpServers": "./.codex-mcp.json"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "hookcrest",
+  "owner": {
+    "name": "Hookcrest"
+  },
+  "plugins": [
+    {
+      "name": "hookcrest",
+      "source": "./",
+      "description": "Grow a product on TikTok from your agent: niche research, outlier posts adapted for your brand, review, and TikTok inbox drafts."
+    }
+  ],
+  "metadata": {
+    "description": "Hookcrest agent kit."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.hookcrest/hookcrest",
+  "title": "Hookcrest",
+  "description": "Make, review and send short-form posts for your app, and learn which hooks keep winning.",
+  "version": "0.3.0",
+  "websiteUrl": "https://hookcrest.com",
+  "icons": [
+    {
+      "src": "https://hookcrest.com/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.hookcrest.com/mcp"
+    }
+  ]
+}

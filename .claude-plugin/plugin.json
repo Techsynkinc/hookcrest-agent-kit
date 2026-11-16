@@ -1,0 +1,23 @@
+{
+  "name": "hookcrest",
+  "version": "0.3.0",
+  "description": "Grow a product on TikTok from your agent: niche research, outlier posts adapted for your brand, review, and TikTok inbox drafts.",
+  "author": {
+    "name": "Hookcrest"
+  },
+  "keywords": [
+    "tiktok",
+    "growth",
+    "content",
+    "ugc",
+    "social"
+  ],
+  "mcpServers": {
+    "hookcrest": {
+      "command": "node",
+      "args": [
+        "${CLAUDE_PLUGIN_ROOT}/bin/hookcrest-mcp.js"
+      ]
+    }
+  }
+}

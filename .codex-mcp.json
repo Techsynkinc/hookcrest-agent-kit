@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "hookcrest": {
+      "command": "node",
+      "args": [
+        "./bin/hookcrest-mcp.js"
+      ],
+      "cwd": "./",
+      "env_vars": [
+        "HOOKCREST_URL",
+        "HOOKCREST_API_KEY",
+        "HOOKCREST_CONFIG"
+      ]
+    }
+  }
+}
