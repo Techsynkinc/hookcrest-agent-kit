@@ -6,8 +6,6 @@ contains one entry-point skill. A Hookcrest account is required.
 
 ## Claude Code
 
-After the public repository is created:
-
 ```text
 /plugin marketplace add Techsynkinc/hookcrest-agent-kit
 /plugin install hookcrest@hookcrest
